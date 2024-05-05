@@ -1,0 +1,5 @@
+com\proyecto\calificacion\controller\PublicacionControllerTest.class
+com\proyecto\calificacion\service\PublicacionServiceTest.class
+com\proyecto\calificacion\CalificacionApplicationTests.class
+com\proyecto\calificacion\repository\PublicacionRepositoryTest.class
+com\proyecto\calificacion\model\PublicacionTest.class

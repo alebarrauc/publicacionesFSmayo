@@ -1,0 +1,7 @@
+com\proyecto\calificacion\service\PublicacionService.class
+com\proyecto\calificacion\controller\PublicacionController.class
+com\proyecto\calificacion\repository\PublicacionRepository.class
+com\proyecto\calificacion\model\Publicacion.class
+com\proyecto\calificacion\CalificacionApplication.class
+com\proyecto\calificacion\controller\PublicacionesNotFoundException.class
+com\proyecto\calificacion\service\PublicacionServiceImpl.class
